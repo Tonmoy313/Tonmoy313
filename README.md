@@ -1,6 +1,34 @@
-# 👋 Hi there, I'm **Tonmoy**!  
+# 👋 Hi there!! I'm Abdullah Al Mahmud
 
-✨ Welcome to my GitHub profile! I'm an aspiring **AI/ML Engineer** and **Software Developer** who loves solving problems and creating impactful solutions using cutting-edge technologies. My journey revolves around **learning, building, and sharing knowledge** with a vision of shaping a tech-driven future.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&&color=164E67&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Laravel+Developer" />
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-al-mahmud-373a97331/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tonmoy313">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tonmoy313/">
+    <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Abdtonmoy27/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tonmoy_abdullah">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tonmoyabdullahalmahmud.cse007@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 🚀 About Me
+
+Passionate AI/ML Engineer with a strong background in developing innovative machine learning solutions. Specialized in deep learning, NLP, and cutting-edge AI technologies.
 
 ---
 
@@ -19,64 +47,37 @@
 ## 🌱 **What I’m Learning**  
 - Deepening my understanding of **neural networks**, **NLP**, and **voice interaction for chatbots**.  
 - Improving my **IELTS listening skills** to refine communication for global collaboration.  
-
+- Flutter to implement my mission & vission
 ---
 
-## 🛠️ **Languages & Tools**  
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Oracle PL/SQL](https://img.shields.io/badge/Oracle-PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+## 🛠️ Tech Stack
 
-### **Frontend**  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+<p align="center"><i>AI/ML Tools & Frameworks</i></p><p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,anaconda,ai,sklearn,selenium," /> </p> 
+<p align="center"><i>Backend Frameworks</i></p><p align="center"> <img src="https://skillicons.dev/icons?i=flask,laravel,spring,dotnet,fastapi,wordpress" /> </p> 
+<p align="center"><i>Frontend Technologies</i></p> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,svg" /> </p>  
+<p align="center"><i>Databases</i></p> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" /> </p>  
+<p align="center"><i>Programming Languages</i></p><p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,py" /> </p> 
+<p align="center"><i>IDE & Others </i></p> <p align="center"> <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,figma,ai,matlab,phpstorm,postman,pycharm,stackoverflow,sublime,visualstudio,vscode" /> </p> 
 
-### **Backend Frameworks**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)  
+## 📊 My GitHub Stats
 
-### **Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonmoy313&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy313&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-### **AI/ML Frameworks & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
+## 🔥 Streak Stats
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy313&theme=radical" />
+</p>
 
-## 👯 **Let’s Collaborate On**  
-- **AI/ML Projects**: Especially in neural networks, text analysis, or image processing.  
-- **Cross-platform Applications**: Bringing ideas to life for mobile and web platforms.  
-- **Voice-based Solutions**: Building intuitive systems with natural language capabilities.  
+## 🏆 Achievements
 
----
-
-## 💬 **Ask Me About**  
-- **Building Scalable Systems**  
-- **Signature Verification Techniques**  
-- **Optimizing Search in Large Databases**  
-- Anything related to **Python** or **AI/ML**!  
-
----
-
-## 📫 **How to Reach Me**  
-- **Email**: [tonmoyabdullahalmahmud.cse007@gmail.com](mailto:tonmoyabdullahalmahmud.cse007@gmail.com)  
-- **LinkedIn**: [Abdullah Al Mahmud](https://www.linkedin.com/in/abdullah-al-mahmud-373a97331/)  
-- **Facebook**: [Abdullah Al Mahmud Tonmoy](https://www.facebook.com/Abdtonmoy27/)  
+- 🥇 Research Publications in AI/ML
+- 🏅 Advanced Machine Learning Certifications
+- 💡 Innovative AI Project Implementations
 
 ---
 
@@ -85,4 +86,6 @@ I'm a big fan of **voice-interactive systems** and believe they’re the future 
 
 ---
 
-Does this resonate with how you’d like to present yourself? Let me know if you’d like to add or tweak anything! 😊
+## 📬 Let's Connect!
+
+Feel free to reach out for collaboration, research, or just a friendly chat about technology and innovation!
